@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "category": "company_profile",
+    "question": "When was NexaAI Solutions founded and where is its headquarters?",
+    "ground_truth": "NexaAI Solutions was founded in 2021 and its headquarters are in Bengaluru, India.",
+    "source": "Company Profile"
+  },
+  {
+    "id": 2,
+    "category": "company_profile",
+    "question": "What is NexaAI's mission?",
+    "ground_truth": "NexaAI's mission is to simplify access to organizational knowledge, automate repetitive workflows, and help teams operate with speed, clarity, and confidence. The company focuses on practical AI adoption rather than experimental research.",
+    "source": "Company Profile"
+  },
+  {
+    "id": 3,
+    "category": "company_profile",
+    "question": "Who is the CEO and Founder of NexaAI?",
+    "ground_truth": "Aarav Mehta is the CEO and Founder of NexaAI.",
+    "source": "Company Profile"
+  },
+  {
+    "id": 4,
+    "category": "company_policies",
+    "question": "How many annual leave days are employees entitled to?",
+    "ground_truth": "Employees are entitled to 18 working days of annual leave per year.",
+    "source": "Company Policies"
+  },
+  {
+    "id": 5,
+    "category": "company_policies",
+    "question": "How many sick and casual leave days are provided?",
+    "ground_truth": "Employees receive 10 working days of sick leave and 6 working days of casual leave per year.",
+    "source": "Company Policies"
+  },
+  {
+    "id": 6,
+    "category": "company_policies",
+    "question": "What happens if an employee violates company policies?",
+    "ground_truth": "A violation may result in disciplinary action, including a written warning, suspension, or termination of employment in severe cases.",
+    "source": "Company Policies"
+  },
+  {
+    "id": 7,
+    "category": "products",
+    "question": "What is NexaChat and what problem does it solve?",
+    "ground_truth": "NexaChat is an AI-powered internal assistant that allows employees to query company documents, policies, reports, and knowledge bases using natural language. It is designed to reduce time spent searching for information and provide consistent, citation-backed answers.",
+    "source": "Products & Pricing"
+  },
+  {
+    "id": 8,
+    "category": "products",
+    "question": "What are the main features of NexaInsight?",
+    "ground_truth": "NexaInsight supports natural-language querying over structured business data, automated KPI summaries and trend analysis, scheduled weekly and monthly reports, PDF and Excel export, and role-based visibility for leadership and managers.",
+    "source": "Products & Pricing"
+  },
+  {
+    "id": 9,
+    "category": "pricing",
+    "question": "What is the price of the Growth Plan and what products are included?",
+    "ground_truth": "The Growth Plan costs 5,999 per user per month and includes NexaChat, NexaInsight, and NexaSupport.",
+    "source": "Products & Pricing"
+  },
+  {
+    "id": 10,
+    "category": "pricing",
+    "question": "What discount is offered for annual billing?",
+    "ground_truth": "Annual billing offers a 15% discount.",
+    "source": "Products & Pricing"
+  },
+  {
+    "id": 11,
+    "category": "cross_document",
+    "question": "Which NexaAI product would be most suitable for managing internal company documents and policies?",
+    "ground_truth": "NexaChat, the Internal Knowledge Assistant, is designed for employees to query company documents and policies using natural language.",
+    "source": "Products & Pricing"
+  },
+  {
+    "id": 12,
+    "category": "cross_document",
+    "question": "Which plan is designed for large organizations with strict security, compliance, and scalability requirements?",
+    "ground_truth": "The Enterprise Plan is tailored for large organizations with strict security, compliance, and scalability requirements.",
+    "source": "Products & Pricing"
+  },
+  {
+    "id": 13,
+    "category": "unanswerable",
+    "question": "Who founded Microsoft?",
+    "ground_truth": "The provided NexaAI company documents do not contain information about who founded Microsoft.",
+    "source": "Not in provided documents"
+  },
+  {
+    "id": 14,
+    "category": "unanswerable",
+    "question": "What is NexaAI's annual revenue?",
+    "ground_truth": "The provided company documents do not specify NexaAI's annual revenue.",
+    "source": "Not in provided documents"
+  },
+  {
+    "id": 15,
+    "category": "unanswerable",
+    "question": "How many employees will NexaAI have in 2030?",
+    "ground_truth": "The provided company documents do not state how many employees NexaAI will have in 2030.",
+    "source": "Not in provided documents"
+  }
+]
