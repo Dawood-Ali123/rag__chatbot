@@ -30,8 +30,7 @@ data/vectorstore/*
 !data/uploads/.gitkeep
 !data/vectorstore/.gitkeep
 
-# Evaluation results
-evaluation/results.json
+
 
 # IDE / Editor
 .vscode/
